@@ -1,0 +1,9 @@
+a {
+    box-sizing: border-box;
+    padding: 5px;
+    border: 2px solid #000;
+    margin: 10px;
+}
+div {
+    margin-top: 10px;
+}
