@@ -1,6 +1,13 @@
 a {
     box-sizing: border-box;
     padding: 5px;
-    border: 2px solid #000;
     margin: 10px;
+    text-align: center;
+    color: white;
+    border-right: white;
+    text-decoration: none;
+}
+nav {
+    background: linear-gradient(to right, black, red);
+    padding: 10px;
 }
